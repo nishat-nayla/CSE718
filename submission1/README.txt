@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/zZG8Q6XbyYw	
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1vvG27-BRoNKmVKyNnCm5jSdqhSxF63ThWbdhK0Kh6lU/edit?usp=drive_link
+https://github.com/nishat-nayla/CSE718/blob/main/submission1/Paper01.pptx
 
 Paper title:
 Domain-Specific Modelling Languages for Participatory Agent-Based Modelling in Healthcare

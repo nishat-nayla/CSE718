@@ -2,7 +2,7 @@ Link to unlisted YouTube video:
 https://youtu.be/LM4QfaIVL0g
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/11emi0IFv_AIG2nFXNqaLMC8O07N5OStGVvy1FvwO7Gg/edit?usp=drive_link
+https://github.com/nishat-nayla/CSE718/blob/main/submission2/paper%202.pptx
 
 Paper title:
 Modeling and Simulation of Complex Electromechanical System of More-Electric Aircraft Based on Distributed Simulation Technology
